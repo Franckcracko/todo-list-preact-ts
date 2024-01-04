@@ -8,7 +8,7 @@ export const Footer = () => {
         Creado con ❤️ por <a href="https://github.com/Franckcracko/">Franckcracko</a>
       </p>
       <p>
-        <a href="https://github.com/Franckcracko/todo-list-typescript" target='_blank'>
+        <a href="https://github.com/Franckcracko/todo-list-preact-ts" target='_blank'>
           Ver en GitHub
         </a>
       </p>
